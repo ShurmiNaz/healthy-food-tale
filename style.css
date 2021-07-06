@@ -144,6 +144,18 @@
     padding-left: 200px;
     
 }
+
+/* extra*/
+#extra{
+    margin-top: 105px;
+}
+#extrabg{
+    background-image: url(stuff/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
 /*footer*/
 .footerr{
 background-color:#dfe4ea ;
