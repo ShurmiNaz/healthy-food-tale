@@ -37,6 +37,7 @@
 .common{
     font-family: 'Roboto Mono', monospace; 
     display: flex;
+    margin-bottom: 2%;
 }
 .colorspan{
     color:#7D3985 ;
@@ -47,6 +48,7 @@
     width: 40%;
     margin-left: 40px;
     padding-left: 5%;
+    
 }
 .secdivone img{
     width: 70%;
@@ -54,6 +56,9 @@
 .secdivone h1{
     padding: 30px 0px;
     font-size: 40px;
+}
+.secdivone p{
+    text-align: justify;
 }
 .start-button{
     text-decoration: none;
@@ -64,4 +69,31 @@
     background-image: linear-gradient(to right,#cc2b5e,#753a88);
     color: #fff;
 }
-
+/*second container*/
+.sectwo{
+    background-image: url(stuff/7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.second-sec-div1{
+    width: 40%;
+    text-align: right;
+}
+.second-sec-div1 img{
+    width: 40%;
+    padding-top: 20px;
+}
+.second-sec-div2{
+    width: 40%;
+    
+    padding-left: 2%;
+    margin-left: 10%;
+    margin-top: 7%;
+}
+.second-sec-div2 h3{ 
+    font-size: 30px;
+    padding: 20px 0px;
+}
+.second-sec-div2 h3 p{
+    
+}
