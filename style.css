@@ -1,0 +1,36 @@
+/*menu bar*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu-bar{
+    background-color:#ced6e0 ;
+    display: flex;
+}
+.menu-bar div{
+    width: 50%;
+}
+#blog-name{
+    font-family: 'Festive', cursive;
+   font-size: 50px;
+   text-align: center;
+}
+#main-menu{
+    text-align: center;
+    margin-top: 15px;
+}
+
+#main-menu ul li{
+    display: inline-block;
+    margin-left: -4;
+}
+#main-menu ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 10px 30px;
+
+}
+/* First container*/
