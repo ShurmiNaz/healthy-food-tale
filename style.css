@@ -34,3 +34,34 @@
 
 }
 /* First container*/
+.common{
+    font-family: 'Roboto Mono', monospace; 
+    display: flex;
+}
+.colorspan{
+    color:#7D3985 ;
+}
+
+
+.secdivone{
+    width: 40%;
+    margin-left: 40px;
+    padding-left: 5%;
+}
+.secdivone img{
+    width: 70%;
+}
+.secdivone h1{
+    padding: 30px 0px;
+    font-size: 40px;
+}
+.start-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+    background-image: linear-gradient(to right,#cc2b5e,#753a88);
+    color: #fff;
+}
+
