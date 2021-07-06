@@ -37,7 +37,7 @@
 .common{
     font-family: 'Roboto Mono', monospace; 
     display: flex;
-    margin-bottom: 2%;
+    margin-bottom: 5%;
 }
 .colorspan{
     color:#7D3985 ;
@@ -96,4 +96,17 @@
 }
 .second-sec-div2 h3 p{
     
+}
+/*my recipe*/
+.myrecipe{
+    text-align: center;
+    height: 250px;
+    
+}
+.myrecipe h2{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+.myrecipe pre{
+   font-size: 15px;
 }
